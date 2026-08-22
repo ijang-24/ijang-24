@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ijang</h1>
-<h3 align="center">Fullstack Developer from Indonesia 🇮🇩</h3>
+<h3 align="center">Fullstack Developer ( Allrounder )</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Mobile+Developer+(Flutter+%2F+Kotlin+%2F+Swift);Backend+Enthusiast+(Laravel+%2F+Node.js);Database+Lover+(SQL+Server+%2F+PostgreSQL+%2F+MySQL)" alt="Typing SVG" />

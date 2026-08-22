@@ -7,15 +7,6 @@
 
 ---
 
-### 🚀 About Me
-
-- 🔭 I'm currently working on **web & mobile app projects**
-- 🌱 Learning something new every day
-- 💬 Ask me about **Laravel, Flutter, Node.js & SQL**
-- ⚡ From backend APIs to mobile apps, I love building things end-to-end
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages**

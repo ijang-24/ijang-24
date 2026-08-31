@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="./ui.png" alt="Universitas Indonesia" height="90" />
+  <img src="./logo%20ui.png" alt="Universitas Indonesia" height="85" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./logo.png" alt="Politeknik Negeri Jakarta" height="90" />
+  <img src="./logo%20pnj.png" alt="Politeknik Negeri Jakarta" height="85" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ijang</h1>

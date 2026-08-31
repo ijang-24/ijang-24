@@ -8,7 +8,7 @@
 <h3 align="center">Web Developer dan Mahasiswa Universitas Indonesia & Politeknik Negeri Jakarta</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Developer;Mahasiswa+Universitas+Indonesia;Mahasiswa+Politeknik+Negeri+Jakarta;Tech+%26+Code+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Developer;Mahasiswa+Universitas+Indonesia;Mahasiswa+Politeknik+Negeri+Jakarta;Tech+%26+Code+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---

@@ -1,8 +1,14 @@
+<p align="center">
+  <img src="./ui.png" alt="Universitas Indonesia" height="90" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./logo.png" alt="Politeknik Negeri Jakarta" height="90" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Ijang</h1>
-<h3 align="center">Fullstack Developer ( Allrounder )</h3>
+<h3 align="center">Web Developer dan Mahasiswa Universitas Indonesia & Politeknik Negeri Jakarta</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Mobile+Developer+(Flutter+%2F+Kotlin+%2F+Swift);Backend+Enthusiast+(Laravel+%2F+Node.js);Database+Lover+(SQL+Server+%2F+PostgreSQL+%2F+MySQL)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Developer;Mahasiswa+Universitas+Indonesia;Mahasiswa+Politeknik+Negeri+Jakarta;Tech+%26+Code+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
@@ -20,8 +26,10 @@
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-**Backend & Frameworks**
+**Frameworks**
 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
